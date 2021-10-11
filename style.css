@@ -31,6 +31,7 @@ nav li a {
 
 .navBar a:hover {
   background: rgba(255, 255, 255, 0.1);
+  font-weight: bold;
   color: black;
   padding: 8px;
 }
@@ -78,9 +79,7 @@ main h5 {
 }
 
 .tabs-spacesarticle {
-  display: inline-block;
-  width: 49%;
-  float: left;
+  display: block;
 }
 
 .tabs-spacesarticle p {
@@ -88,13 +87,26 @@ main h5 {
   font-family: Source San Pro;
 }
 
-.caffeine-article h4 {
+/* .caffeine-article h4 {
   font-family: Roboto Slab;
 }
 
 .caffeine-article p {
   color: #777;
   font-family: Source San Pro;
+} */
+
+.extra-articles {
+  display: block;
+}
+
+.extra-articles article {
+  color: #777;
+  font-family: Source San Pro;
+}
+
+.extra-articles h4 {
+  font-family: Roboto Slab;
 }
 
 footer {
