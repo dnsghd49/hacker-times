@@ -80,6 +80,7 @@ main h5 {
 
 .tabs-spacesarticle {
   display: block;
+  float: left;
 }
 
 .tabs-spacesarticle p {
