@@ -6,4 +6,4 @@ Carlos Palacios, Thomas Selden, Erick Falconi, Kevin Laux, Benjamin Franco, Aaro
 
 ## Screenshot
 
-![ScreenShot](https://github.com/dnsghd49/hacker-times/main/assets/screenshot.png)
+![ScreenShot](https://github.com/dnsghd49/hacker-times/master/assets/screenshot.png)
